@@ -25,8 +25,9 @@ This was my first time ever using a UART and took me a while to understand its f
 ## Processing to Circuitpython
 
 ### Description
+In this assignment we used Proscessing to create a mouse tracker that controled servo's depending on the mouse's location
 
 ### Lessons Learned
-
+This assignment was very difficult and took a lot of research and hardwork to try to find a solution. 
 ### Images
 <img src="Media/Processing_to_Circuitpython.jpg" width="300">
