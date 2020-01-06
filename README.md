@@ -10,7 +10,7 @@ This assignment requires creating a rectangle with a ball that bounces around.
 This assignment was my first experience with proscessing I learned a lot of new commands. It reminded me of arduino because it used void setup and other void functions, and you use "int" to declare variables. I leanred things like background, ellipse, and fill. Overall the assignment was not very difficult.
 
 ### Images
-
+<img src="Media/Hello_Proscessing_Image.png" width="300">
 
 ## CircuitPython to Processing
 
